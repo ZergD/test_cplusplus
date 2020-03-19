@@ -65,7 +65,7 @@ struct ColorSpecification : ISpecification<Product>{
 };
 
 int main(){
-	cout << "Hello World" << endl;
+	cout << "Hello World this is a change." << endl;
 	cout << "This is a second test" << endl;
 	say_hello();
 
